@@ -258,13 +258,11 @@ I enjoy working across the stack — from writing code and designing application
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshubansal2000/anshubansal2000/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshubansal2000/anshubansal2000/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anshubansal2000/anshubansal2000/output/github-snake.svg">
-  </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshubansal2000/anshubansal2000/output/github-snake-dark.svg" /> 
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshubansal2000/anshubansal2000/output/github-snake.svg" /> 
+    <img src="https://raw.githubusercontent.com/anshubansal2000/anshubansal2000/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" /> 
+  </picture> 
 </p>
-
----
 
 ## ✍️ A Dev Thought
 
