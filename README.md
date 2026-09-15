@@ -121,6 +121,16 @@ I enjoy working across the stack — from writing code and designing application
 ## ⭐ Featured Projects
 
 <p align="center">
+  <a href="https://github.com/anshubansal2000/Heterogeneous-Prefill-Decode-Disaggregation">
+    <img src="https://img.shields.io/badge/🧠%20Heterogeneous%20Prefill%20%26%20Decode-Explore%20Project-8957E5?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anshubansal2000/Subliminal-Learning-Making-a-Model-Biased">
+    <img src="https://img.shields.io/badge/🤖%20Subliminal%20Learning-Explore%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/anshubansal2000/AWSZeroTrustPolicy">
     <img src="https://img.shields.io/badge/🔐%20AWS%20Zero%20Trust%20Policy-Explore%20Project-238636?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -135,14 +145,15 @@ I enjoy working across the stack — from writing code and designing application
     <img src="https://img.shields.io/badge/🛡️%20Kube--Bench-Explore%20Project-8957E5?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/anshubansal2000/azure-orphan-resources">
-    <img src="https://img.shields.io/badge/🔷%20Azure%20Orphan%20Resources-Explore%20Project-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/anshubansal2000/aws-security-viz">
+    <img src="https://img.shields.io/badge/📊%20AWS%20Security%20Viz-Explore%20Project-0078D4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Building across cloud infrastructure, security & developer tooling.</sub>
+  <sub>Building across AI, cloud infrastructure, security & developer tooling.</sub>
 </p>
+
 
 
 
