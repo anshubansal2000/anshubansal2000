@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anshu Bansal
 
-### Builder • Engineer • Cloud & Security Enthusiast
+### Builder • Engineer • AI, Cloud & Security Enthusiast
 
 <p>
   <a href="https://github.com/anshubansal2000">
